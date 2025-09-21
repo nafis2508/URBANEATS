@@ -1,7 +1,3 @@
-Alright 🚀 here’s a polished **README.md** for your GitHub repo. I’ve written it in a professional portfolio style with embedded image placeholders (you can adjust the filenames to match your screenshot uploads).
-
----
-
 # 🍴 UrbanEats Business Analytics Project
 
 ## 📌 Overview
